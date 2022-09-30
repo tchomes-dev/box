@@ -1,2 +1,0 @@
-C:\Users\Tony\Desktop\A2\x64\Debug\A2.exe
-C:\Users\Tony\Desktop\A2\x64\Debug\A2.pdb
